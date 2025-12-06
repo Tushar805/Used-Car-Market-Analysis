@@ -128,4 +128,4 @@ CONCATENATEX(
 
 - **Price depreciation:** Sharp drop in first 5 years, then stabilizes
 
-[Image](‪E:\Data Analyst\Used Car\Image_page-0001.jpg)
+E:\Data Analyst\Used Car\Image_page-0001.jpg
