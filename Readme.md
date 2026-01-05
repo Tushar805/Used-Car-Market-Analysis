@@ -1,4 +1,4 @@
-# Used Car Market Insights Dashboard (Dec 2023 – Dec 2024)
+# Used Car Market Insights Dashboard
 
 ## **Project Overview**
 This Power BI project analyzes **3,622 used car listings** to uncover trends in pricing, supply, demand, ownership, and vehicle features. The dashboard provides actionable insights for buyers, sellers, and market analysts, combining KPIs, visual trends, and advanced analytics.
